@@ -1,0 +1,163 @@
+.. _schedule:
+
+Schedule
+########
+
+.. raw:: html
+
+   <h3>CIS 890: Development of High-Assurance Software Systems, Spring 2019</h3>
+
+.. include:: def.rst
+
+----
+
+Week 1: January 21
+=================================================================
+
+**Lectures:**
+
+* Course Administration 
+* System Theory and Control Loop Concepts
+* Control Loop Examples
+
+**Homework (and tool installation):**
+
+* Setting up the STM32 Development Tools
+
+Week 2: January 28 
+=================================================================
+    
+**Lectures:**
+
+* Slang Embedded Development Overview
+* AADL Modeling Basics
+* STM32 and Arduino Discussion
+
+**Homework:**
+
+* Setting up the Slang Embedded Development Environment
+* Simple Programming With Arduino
+
+Week 3: February 4 
+=================================================================
+    
+**Lectures:**
+
+* Slang Embedded Development 
+* Project Discussions 
+
+**Homework:**
+
+* Using FreeRTOS and STM 32 boards to control the Temperature Control Hardware
+
+Week 4: February 11
+=================================================================
+    
+**Lectures:**
+
+* Slang Embedded Development (continued)
+
+**Homework:**
+
+* (Slang Embedded homework -- to be determined)
+
+**Notes:**
+
+* Dr. Hatcliff traveling to AADL committee meeting and demo
+
+Week 5: February 18
+=================================================================
+    
+**Lectures:**
+
+* AADL Real-Time Annotations
+
+Week 6: February 25
+=================================================================
+    
+**Lectures:**
+
+* (to be announced)
+
+Week 7: March 4
+=================================================================
+    
+**Lectures:**
+
+* (to be announced)
+
+Spring Break: March 11
+=================================================================
+    
+*Have Fun!*
+
+Week 8: March 18
+=================================================================
+    
+**Lectures:**
+
+* (to be announced)
+
+Week 9: March 25
+=================================================================
+    
+**Lectures:**
+
+* (to be announced)
+
+Week 10: April 1
+=================================================================
+    
+**Lectures:**
+
+* (to be announced)
+
+Week 11: April 8
+=================================================================
+    
+**Lectures:**
+
+* (to be announced)
+
+Week 12: April 15
+=================================================================
+    
+**Lectures:**
+
+* (to be announced)
+
+Week 13: April 22
+=================================================================
+    
+**Lectures:**
+
+* (to be announced)
+
+Week 14: April 29
+=================================================================
+    
+**Lectures:**
+
+* (to be announced)
+
+Week 15: May 6
+=================================================================
+    
+**Lectures:**
+
+* (to be announced)
+
+Finals: May 13
+=================================================================
+    
+*We will not have a final, but we will meet to discuss project outcomes*
+
+
+
+
+  
+  
+  
+  
+  
+
