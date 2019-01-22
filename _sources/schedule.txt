@@ -22,8 +22,11 @@ Week 1: January 21
 
 **Homework (and tool installation):**
 
-* Setting up the STM32 Development Tools
+* `Setting up the STM32 Development Tools <https://k-state.instructure.com/courses/74651/assignments/798070>`__  
 
+  This assignment will guide you through the process of setting up the
+  development tools for programming applications directly in FreeRTOS
+  on the STMF4 discovery boards.  **Due January 28, 11:59pm**
 Week 2: January 28 
 =================================================================
     
