@@ -8,13 +8,35 @@ Lectures
    <h3>CIS 890: Development of High-Assurance Software Systems, Spring 2019</h3>
 
 
+
+Course Administration
+********************************
+
+**Course Overview**
+
+* `Course Administration <http://www.santoslab.org/pub/high-assurance/module-intro/slides/INTRO-00-course-administration-2019.pdf>`__
+
 Safety Critical Systems Concepts
 ********************************
 
-(content will appear here throughout the semester)
+**Control Loop Basics illustrated with Temperature Controller Example**
 
+This lecture introduces concepts associated with "control loops" -- a
+foundational concept in the design and implementation of embedded
+systems and safety-critical systems.  A control loop consists of the
+"real-world 
+thing" that the system is trying to control (the controlled process),
+the controller (i.e., software/hardware that makes decisions about how
+to control the controlled process), sensors (used by the controller to get
+"readings" the real-world state of the controlled process), and
+actuators (used by the controller to change the state of the
+controlled process in some way).  The lecture briefly discusses how
+requirements engineering and safety reasoning relate to control loops.
 
-
+* `Slides <http://www.santoslab.org/pub/high-assurance/module-intro/slides/INTRO-01-Temp-Control-Control-Loops.pdf>`__
+* `Study Guide
+  <http://www.santoslab.org/pub/high-assurance/module-intro/study-guides/INTRO-01-Temp-Control-Control-Loops-study-guide.txt>`__
+  
 
 
 AADL
