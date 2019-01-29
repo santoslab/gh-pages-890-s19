@@ -17,7 +17,8 @@ Week 1: January 21
 **Lectures:**
 
 * Course Administration 
-* System Theory and Control Loop Concepts
+* System Theory and Control Loop Concepts .. (:ref:`lecture link <lecture-intro-control-loops-temp-controller>`)
+
 * Control Loop Examples
 
 **Homework (and tool installation):**
@@ -32,7 +33,7 @@ Week 2: January 28
     
 **Lectures:**
 
-* Slang Embedded Development Overview (see :ref:`lecture link <lecture-slang-embedded-overview>`)
+* Slang Embedded Development Overview (:ref:`lecture link <lecture-slang-embedded-overview>`)
 * AADL Modeling Basics
 * STM32 and Arduino Discussion
 
