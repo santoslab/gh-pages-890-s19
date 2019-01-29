@@ -32,7 +32,7 @@ Week 2: January 28
     
 **Lectures:**
 
-* Slang Embedded Development Overview (see :ref:`lecture-slang-embedded-overview`)
+* Slang Embedded Development Overview (see :ref:`lecture link <lecture-slang-embedded-overview>`)
 * AADL Modeling Basics
 * STM32 and Arduino Discussion
 
