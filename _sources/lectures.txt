@@ -33,9 +33,9 @@ actuators (used by the controller to change the state of the
 controlled process in some way).  The lecture briefly discusses how
 requirements engineering and safety reasoning relate to control loops.
 
-* `Slides <http://www.santoslab.org/pub/high-assurance/module-intro/slides/INTRO-01-Temp-Control-Control-Loops.pdf>`__
-* `Study Guide
-  <http://www.santoslab.org/pub/high-assurance/module-intro/study-guides/INTRO-01-Temp-Control-Control-Loops-study-guide.txt>`__
+* Slides (`.pdf <http://www.santoslab.org/pub/high-assurance/module-intro/slides/INTRO-01-Temp-Control-Control-Loops.pdf>`__)
+* Study Guide (`.txt
+  <http://www.santoslab.org/pub/high-assurance/module-intro/study-guides/INTRO-01-Temp-Control-Control-Loops-study-guide.txt>`__)
   
 
 
@@ -61,7 +61,7 @@ subset of Scala), and code generation to C for various micro-kernel
 and separation platforms.  Other lectures will "drill down" into the
 details of each of the tool chain elements.
 
-* `Slides <http://www.santoslab.org/pub/high-assurance/module-slang/slides/Slang-Embedded-Pipeline-Overview.pdf>`__
+* Slides (`.pdf <http://www.santoslab.org/pub/high-assurance/module-slang/slides/Slang-Embedded-Pipeline-Overview.pdf>`__)
 
 
 ----
