@@ -51,6 +51,8 @@ AADL
 Slang Embedded
 ********************************
 
+.. _lecture-slang-embedded-overview:
+
 **Lecture: Slang Embedded Tool Chain Overview**
 
 This lecture presents an overview of the Slang Embedded tool chain for
