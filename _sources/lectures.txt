@@ -90,7 +90,7 @@ Arduino
 This 225-page document provides 33 exercises to help you learn how to
 program all of the different widges that come with the Arduino
 (Elegoo) Mega 2560 kit that is required for the course (you can
-purchase the  kit from `Amazon <http://amazon.com>`__).
+purchase the  kit from `Amazon <https://www.amazon.com/gp/product/B01EWNUUUA/ref=ppx_yo_dt_b_asin_title_o01__o00_s00?ie=UTF8&psc=1>`__).
 
 * Tutorial Document (`.pdf <http://www.santoslab.org/pub/high-assurance/module-arduino/Elegoo-Mega-2560-Tutorials.pdf>`__)
 
