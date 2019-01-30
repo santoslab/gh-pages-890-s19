@@ -67,6 +67,24 @@ details of each of the tool chain elements.
 
 * Slides (`.pdf <http://www.santoslab.org/pub/high-assurance/module-slang/slides/Slang-Embedded-Pipeline-Overview.pdf>`__)
 
+STM32 and FreeRTOS
+********************************
+
+.. _lecture-stm32-tool-chain-installation:
+
+**Exercise: STM32 Tool Chain Installation and Blinking LED**
+
+This exercise guides you through the installation of development tools
+for STM32F4 Discovery Boards and construction of a simple FreeRTOS
+task to blink one of the LEDs built into the Discovery  board.
+
+* Exercise (`.pdf <http://www.santoslab.org/pub/high-assurance/module-stm32/CIS890-STM32-Tool-Chain-Installation-and-LED-Blink.pdf>`__)
+
+
+
+
+
+
 
 ----
 
