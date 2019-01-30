@@ -19,6 +19,8 @@ Course Administration
 Safety Critical Systems Concepts
 ********************************
 
+.. _lecture-intro-control-loops-temp-controller:
+
 **Lecture: Control Loop Basics illustrated with Temperature Controller Example**
 
 This lecture introduces concepts associated with "control loops" -- a

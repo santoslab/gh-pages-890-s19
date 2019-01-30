@@ -17,7 +17,7 @@ Week 1: January 21
 **Lectures:**
 
 * Course Administration 
-* System Theory and Control Loop Concepts .. (:ref:`lecture link <lecture-intro-control-loops-temp-controller>`)
+* System Theory and Control Loop Concepts (:ref:`lecture link <lecture-intro-control-loops-temp-controller>`)
 
 * Control Loop Examples
 
