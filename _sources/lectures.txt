@@ -5,7 +5,7 @@ Lectures
 
 .. raw:: html
 
-   <h3>CIS 890: Development of High-Assurance Software Systems, Spring 2019</h3>
+   <h3>CIS 890: Development of High-Assurance Software Systems</h3>
 
 
 
@@ -79,6 +79,20 @@ for STM32F4 Discovery Boards and construction of a simple FreeRTOS
 task to blink one of the LEDs built into the Discovery  board.
 
 * Exercise (`.pdf <http://www.santoslab.org/pub/high-assurance/module-stm32/CIS890-STM32-Tool-Chain-Installation-and-LED-Blink.pdf>`__)
+
+Arduino
+********************************
+
+.. _lecture-arduino-tutorial-pdf:
+
+**Arduino (Elegoo) Mega 2560 Tutorials**
+
+This 225-page document provides 33 exercises to help you learn how to
+program all of the different widges that come with the Arduino
+(Elegoo) Mega 2560 kit that is required for the course (you can
+purchase the  kit from `Amazon <http://amazon.com>`__).
+
+* Tutorial Document (`.pdf <http://www.santoslab.org/pub/high-assurance/module-arduino/Elegoo-Mega-2560-Tutorials.pdf>`__)
 
 
 
