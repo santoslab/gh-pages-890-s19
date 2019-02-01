@@ -57,7 +57,7 @@ Slang Embedded
 
 **Lecture: Slang Embedded Tool Chain Overview**
 
-This lecture presents an overview of the Slang Embedded tool chain for
+This lecture presents an overview KSU SAnToS Lab's Slang Embedded tool chain for
 developing high-assurance embedded systems.  The tool includes a
 component modeling and analysis layer based on the AADL modeling framework, code
 generation, development, and simulation using Slang (a safety-critical

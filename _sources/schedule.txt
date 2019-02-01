@@ -39,7 +39,16 @@ Week 2: January 28
 
 **Homework:**
 
-* Setting up the Slang Embedded Development Environment
+* `Setting up the Slang Embedded Development Environment
+  <https://k-state.instructure.com/courses/74651/assignments/804992>`__
+
+  This assignment covers the basics of translating from AADL to Slang,
+  implementing component behaviors in Slang, and then running the
+  Slang system in a JVM.  It uses the system modeling framework
+  (OSATE/AADL) that we will use to begin modeling on projects in a few
+  weeks after we have some lectures introducing more of the details of
+  AADL.  **Due February 7, 11:59pm**
+  
 * Simple Programming With Arduino
 
 Week 3: February 4 
