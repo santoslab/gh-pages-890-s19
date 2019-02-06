@@ -34,8 +34,7 @@ Week 2: January 28
 **Lectures:**
 
 * Slang Embedded Development Overview (:ref:`lecture link <lecture-slang-embedded-overview>`)
-* AADL Modeling Basics
-* STM32 and Arduino Discussion
+* Introduction to Arduino 
 
 **Homework:**
 
@@ -49,19 +48,29 @@ Week 2: January 28
   weeks after we have some lectures introducing more of the details of
   AADL.  **Due February 7, 11:59pm**
   
-* Simple Programming With Arduino
 
 Week 3: February 4 
 =================================================================
     
 **Lectures:**
 
+* AADL Overview
 * Slang Embedded Development 
-* Project Discussions 
 
 **Homework:**
 
-* Using FreeRTOS and STM 32 boards to control the Temperature Control Hardware
+* `Prototyping the Temperature Controller Circuit with Arduino
+  <https://k-state.instructure.com/courses/74651/assignments/806511>`__
+
+  In this assignment, you will build and test a simple circuit to
+  simulate the hardware of the temperature controller example.   We've
+  already a lot of this work in class already.  The main point is to
+  build the circuit with the red LED (to simulate the heater/fan) and
+  the potentiometer (to simulate the temperature sensor).  You will
+  then test each component individually, then create a simple program
+  to simulate the logic of temperature controller example.
+  **Due February 14, 11:59pm**
+  
 
 Week 4: February 11
 =================================================================
@@ -72,6 +81,8 @@ Week 4: February 11
 
 **Homework:**
 
+* Using FreeRTOS and STM 32 boards to control the Temperature Control
+  Hardware
 * (Slang Embedded homework -- to be determined)
 
 **Notes:**
