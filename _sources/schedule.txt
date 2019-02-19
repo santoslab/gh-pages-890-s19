@@ -81,9 +81,16 @@ Week 4: February 11
 
 **Homework:**
 
-* Using FreeRTOS and STM 32 boards to control the Temperature Control
-  Hardware
-* (Slang Embedded homework -- to be determined)
+* `Slang Embedded 02 -- creating components
+  <https://k-state.instructure.com/courses/74651/assignments/810513>`__
+
+  In this assignment, you will learn more about using the Slang
+  Embedded modeling and development that we will use later in the
+  course to build our high-assurance embedded systems. This homework
+  focuses on helping you design an interface for a new
+  component in AADL, generate interface code for the component, and
+  program the business logic for the component.
+  **Due Friday, February 22, 11:59pm**
 
 **Notes:**
 
@@ -94,8 +101,16 @@ Week 5: February 18
     
 **Lectures:**
 
-* AADL Real-Time Annotations
+* AADL Concepts -- Port-based Communication
+* FreeRTOS and STM32 development
 
+**Homework:**
+
+* Using FreeRTOS and STM 32 boards to control the Temperature Control
+  Hardware
+
+
+  
 Week 6: February 25
 =================================================================
     
